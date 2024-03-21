@@ -25,5 +25,7 @@ Built with Power BI Desktop and Excel
 **Benifits:**
 
 Reduce customer loss: Identify and help customers at risk to keep them longer.
+
 Improve customer satisfaction: Understand customer needs better for better service.
+
 Make data-driven decisions: Use insights to make better choices for keeping customers happy.
