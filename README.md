@@ -22,7 +22,7 @@ Built with Power BI Desktop and Excel
 
 🌟 Customers who do not receive services such as Tech Support, Device Protection, and Online Security are more dissatisfied and tend to look for other options.
 
-**Benifits: **
+**Benifits:**
 
 Reduce customer loss: Identify and help customers at risk to keep them longer.
 Improve customer satisfaction: Understand customer needs better for better service.
